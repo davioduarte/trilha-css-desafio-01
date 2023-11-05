@@ -1,0 +1,30 @@
+** {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+/* 
+Referencia links
+> site amostra https://micheleambrosio.github.io/dio-trilha-css-desafio-01/
+> google fontes  https://fonts.google.com/specimen/Raleway
+> github  https://github.com/digitalinnovationone/trilha-css-desafio-01
+> figma https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?type=design&node-id=2-6&mode=design&t=kC1CPk7K8aPX5Zk4-0
+*/
+
+/* header */
+
+/* quadrado do baner */
+.banner .banner-content {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+/* quadrado do logo */
+
+/* logo */
+
+/* trilha */
+/* a nova */
+/* botão quero */
+
+/* main */
